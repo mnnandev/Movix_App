@@ -6,7 +6,7 @@ import dayjs from "dayjs";
 import "./DetailBanner.scss";
 
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
-import useFetch from "../../../hooks/useFetch";
+import useFetch from "../../../Hooks/useFetch";
 import Genres from "../../../components/genres/Genres";
 import CircleRating from "../../../components/circleRating/CircleRating";
 import Img from "../../../components/LazyloadImages/Images";
