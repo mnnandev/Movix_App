@@ -5,8 +5,7 @@ import { useSelector } from "react-redux";
 
 import "./MovieCard.scss";
 import Img from "../LazyloadImages/Images";
-// import CircleRating from "../CircleRating/CircleRating";
-import CircleRating from "../circleRating/CircleRating";
+import CircleRating from "../CircleRating/CircleRating";
 import Genres from "../Genres/Genres";
 import PosterFallback from "../../assets/no-poster.png";
 
