@@ -13,7 +13,7 @@ import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
 import Img from "../../components/LazyloadImages/Images";
 import PosterFallback from "../../assets/no-poster.png";
 import "./crousal.scss";
-import CircleRating from "../CircleRating/CircleRating";
+import CircleRating from "../circleRating/CircleRating";
 import Genres from "../Genres/Genres";
 
 const Crousal = ({ data, loading,endpoint,title }) => {

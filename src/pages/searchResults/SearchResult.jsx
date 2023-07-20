@@ -2,8 +2,6 @@ import React, { useEffect, useState } from "react";
 import "./SearchResult.scss";
 
 import { fetchDataFromApi } from "../../utils/Api";
-import noResults from "../../assets/no-results.png";
-// import MovieCard from "../../components/MovieCard/MovieCard.jsx"
 import { useParams } from "react-router-dom";
 import MovieCard from "../../components/MovieCard/MovieCard";
 import Spinner from "../../components/Spinner.jsx/Spinner";
