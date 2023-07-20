@@ -8,7 +8,7 @@ import "./DetailBanner.scss";
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
 import useFetch from "../../../Hooks/useFetch";
 import Genres from "../../../components/Genres/Genres";
-import CircleRating from "../../../components/circleRating/CircleRating";
+import CircleRating from "../../../components/CircleRating/CircleRating";
 import Img from "../../../components/LazyloadImages/Images";
 import PosterFallback from "../../../assets/no-poster.png";
 import { PlayIcon } from "../Playbtn";
