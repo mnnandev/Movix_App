@@ -21,7 +21,6 @@ const Footer = () => {
                     <li className="menuItem">Blog</li>
                     <li className="menuItem">FAQ</li>
                     <li className="menuItem">Develop By Mnnan Bhutta</li>
-
                 </ul>
                 <div className="infoText">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
